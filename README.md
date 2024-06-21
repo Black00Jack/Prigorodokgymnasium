@@ -1,1 +1,1 @@
-# Prigorodokgymnasium.githu.io
+# Prigorodokgymnasium.github.io
