@@ -1,0 +1,1360 @@
+Uri: https://blazelerd.com/
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\index.htm
+Content Type: text/html
+
+Uri: https://blazelerd.com/careers
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\careers.html
+Content Type: text/html
+
+Uri: https://blazelerd.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/cdn-cgi/l/email-protection
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://blazelerd.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/comments/feed
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\comments\feed
+Content Type: application/rss+xml
+
+Uri: https://blazelerd.com/contact-us
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\contact-us.html
+Content Type: text/html
+
+Uri: https://blazelerd.com/feed
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\feed
+Content Type: application/rss+xml
+
+Uri: https://blazelerd.com/otkaz-ot-otvetstvennosti
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\otkaz-ot-otvetstvennosti.html
+Content Type: text/html
+
+Uri: https://blazelerd.com/polzovatelskoe-soglashenie
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\polzovatelskoe-soglashenie.html
+Content Type: text/html
+
+Uri: https://blazelerd.com/portfolio
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\portfolio.html
+Content Type: text/html
+
+Uri: https://blazelerd.com/privacy-policy-2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\privacy-policy-2.html
+Content Type: text/html
+
+Uri: https://blazelerd.com/services
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\services.html
+Content Type: text/html
+
+Uri: https://blazelerd.com/sitemap_index.xml
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\sitemap_index.xml
+Content Type: text/xml
+
+Uri: https://blazelerd.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.5.1
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.5.1
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.5.1
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.12.1
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.12.1
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.12.1
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.12.1
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.18.0
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.18.0
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.18.0
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.18.0
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.18.0
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.18.0
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.12.1
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.12.1
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.12.1
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\revslider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/plugins/revslider/public/assets/assets/dummy.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\revslider\public\assets\assets\dummy.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\revslider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\revslider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/plugins/revslider/public/assets/assets/loader.gif
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\revslider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://blazelerd.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\revslider\public\assets\css\closedhand.cur
+Content Type: application/octet-stream
+
+Uri: https://blazelerd.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\revslider\public\assets\css\openhand.cur
+Content Type: application/octet-stream
+
+Uri: https://blazelerd.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.11
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\revslider\public\assets\css\rs6.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blazelerd.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://blazelerd.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://blazelerd.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: https://blazelerd.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.11
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\revslider\public\assets\js\rbtools.min.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.11
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\plugins\revslider\public\assets\js\rs6.min.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/assets/animations/animations.min.css?ver=26.5.1.2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\assets\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/assets/animations/animations.min.js?ver=26.5.1.2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\assets\animations\animations.min.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/assets/jplayer/css/jplayer.blue.monday.jpg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\assets\jplayer\css\jplayer.blue.monday.jpg
+Content Type: image/jpeg
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/assets/jplayer/css/jplayer.blue.monday.min.css?ver=26.5.1.2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\assets\jplayer\css\jplayer.blue.monday.min.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/assets/jplayer/css/jplayer.blue.monday.seeking.gif
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\assets\jplayer\css\jplayer.blue.monday.seeking.gif
+Content Type: image/gif
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/assets/jplayer/css/jplayer.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\assets\jplayer\css\jplayer.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/assets/jplayer/jplayer.min.js?ver=26.5.1.2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\assets\jplayer\jplayer.min.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/css/be.css?ver=26.5.1.2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\css\be.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/css/responsive.css?ver=26.5.1.2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\css\responsive.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/fontawesome/fa-brands-400.eot
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\fontawesome\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/fontawesome/fa-brands-400.eot?
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\fontawesome\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/fontawesome/fa-brands-400.svg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\fontawesome\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/fontawesome/fa-brands-400.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\fontawesome\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/fontawesome/fa-brands-400.woff
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\fontawesome\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/fontawesome/fa-brands-400.woff2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\fontawesome\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/fontawesome/fa-regular-400.eot
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\fontawesome\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/fontawesome/fa-regular-400.eot?
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\fontawesome\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/fontawesome/fa-regular-400.svg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\fontawesome\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/fontawesome/fa-regular-400.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\fontawesome\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/fontawesome/fa-regular-400.woff
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\fontawesome\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/fontawesome/fa-regular-400.woff2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\fontawesome\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/fontawesome/fa-solid-900.eot
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\fontawesome\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/fontawesome/fa-solid-900.eot?
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\fontawesome\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/fontawesome/fa-solid-900.svg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\fontawesome\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/fontawesome/fa-solid-900.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\fontawesome\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/fontawesome/fa-solid-900.woff
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\fontawesome\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/fontawesome/fa-solid-900.woff2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\fontawesome\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/fontawesome/fontawesome.css?ver=26.5.1.2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\fontawesome\fontawesome.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/mfn/icons.eot?31690507
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\mfn\icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/mfn/icons.svg?31690507
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\mfn\icons.svg
+Content Type: image/svg+xml
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/mfn/icons.ttf?31690507
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\mfn\icons.ttf
+Content Type: application/octet-stream
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/fonts/mfn/icons.woff?31690507
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\fonts\mfn\icons.woff
+Content Type: font/woff
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/functions/plugins/elementor/assets/elementor.css?ver=6.5.3
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\functions\plugins\elementor\assets\elementor.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/bg_panel.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\bg_panel.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/blog_masonry_tile_gradient.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\blog_masonry_tile_gradient.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/box_shadow.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\box_shadow.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/fancy_heading_hr.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\fancy_heading_hr.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/fancy_heading_hr_dark.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\fancy_heading_hr_dark.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/mask_shapes/blob-2.svg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\mask_shapes\blob-2.svg
+Content Type: image/svg+xml
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/mask_shapes/blob.svg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\mask_shapes\blob.svg
+Content Type: image/svg+xml
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/mask_shapes/brush-2.svg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\mask_shapes\brush-2.svg
+Content Type: image/svg+xml
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/mask_shapes/brush.svg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\mask_shapes\brush.svg
+Content Type: image/svg+xml
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/mask_shapes/circle.svg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\mask_shapes\circle.svg
+Content Type: image/svg+xml
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/mask_shapes/cross.svg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\mask_shapes\cross.svg
+Content Type: image/svg+xml
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/mask_shapes/irregular-circle.svg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\mask_shapes\irregular-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/mask_shapes/stain.svg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\mask_shapes\stain.svg
+Content Type: image/svg+xml
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/mask_shapes/triangle.svg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\mask_shapes\triangle.svg
+Content Type: image/svg+xml
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/preloader.gif
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\preloader.gif
+Content Type: image/gif
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/recent_comments.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\recent_comments.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/stripes/stripes_10_b.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\stripes\stripes_10_b.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/stripes/stripes_10_w.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\stripes\stripes_10_w.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/stripes/stripes_3_b.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\stripes\stripes_3_b.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/stripes/stripes_5_b.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\stripes\stripes_5_b.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/stripes/textline_dark.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\stripes\textline_dark.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/timeline_left.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\timeline_left.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/timeline_right.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\timeline_right.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/timeline_top.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\timeline_top.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/images/videomask.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\images\videomask.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/js/menu.js?ver=26.5.1.2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\js\menu.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/js/parallax/translate3d.js?ver=26.5.1.2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\js\parallax\translate3d.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/js/plugins/debouncedresize.min.js?ver=26.5.1.2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\js\plugins\debouncedresize.min.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/js/plugins/enllax.min.js?ver=26.5.1.2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\js\plugins\enllax.min.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/js/plugins/isotope.min.js?ver=26.5.1.2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\js\plugins\isotope.min.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/js/plugins/magnificpopup.min.js?ver=26.5.1.2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\js\plugins\magnificpopup.min.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/js/plugins/visible.min.js?ver=26.5.1.2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\js\plugins\visible.min.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/js/scripts.js?ver=26.5.1.2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-content/themes/betheme/muffin-options/svg/be-mono.svg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\themes\betheme\muffin-options\svg\be-mono.svg
+Content Type: image/svg+xml
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-careers-team-1024x645.jpg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-careers-team-1024x645.jpg
+Content Type: image/jpeg
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-careers-team-119x75.jpg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-careers-team-119x75.jpg
+Content Type: image/jpeg
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-careers-team-232x146.jpg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-careers-team-232x146.jpg
+Content Type: image/jpeg
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-careers-team-300x189.jpg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-careers-team-300x189.jpg
+Content Type: image/jpeg
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-careers-team-50x31.jpg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-careers-team-50x31.jpg
+Content Type: image/jpeg
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-careers-team-768x484.jpg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-careers-team-768x484.jpg
+Content Type: image/jpeg
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-careers-team.jpg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-careers-team.jpg
+Content Type: image/jpeg
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-contact-icon-1.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-contact-icon-1.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-contact-icon-2.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-contact-icon-2.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-contact-map-126x146.jpg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-contact-map-126x146.jpg
+Content Type: image/jpeg
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-contact-map-259x300.jpg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-contact-map-259x300.jpg
+Content Type: image/jpeg
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-contact-map-43x50.jpg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-contact-map-43x50.jpg
+Content Type: image/jpeg
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-contact-map-65x75.jpg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-contact-map-65x75.jpg
+Content Type: image/jpeg
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-contact-map-768x888.jpg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-contact-map-768x888.jpg
+Content Type: image/jpeg
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-contact-map.jpg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-contact-map.jpg
+Content Type: image/jpeg
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-home-icon-1.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-home-icon-1.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-home-icon-2.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-home-icon-2.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-home-icon-222.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-home-icon-222.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-home-icon-3.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-home-icon-3.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-home-icon1.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-home-icon1.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-home-icon2.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-home-icon2.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-home-icon3.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-home-icon3.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-home-keyboard-126x146.jpg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-home-keyboard-126x146.jpg
+Content Type: image/jpeg
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-home-keyboard-259x300.jpg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-home-keyboard-259x300.jpg
+Content Type: image/jpeg
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-home-keyboard-43x50.jpg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-home-keyboard-43x50.jpg
+Content Type: image/jpeg
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-home-keyboard-65x75.jpg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-home-keyboard-65x75.jpg
+Content Type: image/jpeg
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-home-keyboard-768x888.jpg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-home-keyboard-768x888.jpg
+Content Type: image/jpeg
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-home-keyboard.jpg
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-home-keyboard.jpg
+Content Type: image/jpeg
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-1-110x75.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-1-110x75.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-1-214x146.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-1-214x146.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-1-300x205.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-1-300x205.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-1-50x34.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-1-50x34.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-1-768x524.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-1-768x524.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-1.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-1.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-2-126x146.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-2-126x146.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-2-259x300.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-2-259x300.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-2-43x50.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-2-43x50.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-2-65x75.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-2-65x75.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-2-768x889.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-2-768x889.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-2.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-2.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-3-156x146.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-3-156x146.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-3-300x282.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-3-300x282.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-3-50x47.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-3-50x47.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-3-768x721.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-3-768x721.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-3-80x75.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-3-80x75.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-3.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-3.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-4-1-190x146.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-4-1-190x146.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-4-1-300x231.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-4-1-300x231.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-4-1-50x38.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-4-1-50x38.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-4-1-768x591.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-4-1-768x591.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-4-1-98x75.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-4-1-98x75.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-4-1.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-4-1.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-5-110x75.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-5-110x75.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-5-214x146.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-5-214x146.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-5-300x205.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-5-300x205.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-5-50x34.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-5-50x34.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-5-768x524.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-5-768x524.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-5.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-5.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-6-126x146.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-6-126x146.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-6-259x300.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-6-259x300.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-6-43x50.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-6-43x50.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-6-65x75.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-6-65x75.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-6-768x889.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-6-768x889.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-6.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-6.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-7-156x146.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-7-156x146.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-7-300x282.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-7-300x282.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-7-50x47.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-7-50x47.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-7-768x721.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-7-768x721.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-7-80x75.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-7-80x75.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-portfolio-single-7.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-portfolio-single-7.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-quotes-50x41.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-quotes-50x41.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-quotes.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-quotes.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-services-icon1.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-services-icon1.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-services-icon2.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-services-icon2.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2020/01/inter2-services-icon3.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2020\01\inter2-services-icon3.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2023/11/favikon-studija-veb-dizajna.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2023\11\favikon-studija-veb-dizajna.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/2023/11/logotip-studija-veb-dizajna.png
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\2023\11\logotip-studija-veb-dizajna.png
+Content Type: image/png
+
+Uri: https://blazelerd.com/wp-content/uploads/betheme/css/post-121.css?ver=1717440278
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\betheme\css\post-121.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/uploads/betheme/css/post-123.css?ver=1717440275
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\betheme\css\post-123.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/uploads/betheme/css/post-125.css?ver=1717440277
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\betheme\css\post-125.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/uploads/betheme/css/post-13.css?ver=1717440268
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\betheme\css\post-13.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/uploads/betheme/css/post-15.css?ver=1717440269
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\betheme\css\post-15.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/uploads/betheme/css/post-17.css?ver=1717440271
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\betheme\css\post-17.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/uploads/betheme/css/post-19.css?ver=1717440273
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\betheme\css\post-19.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/uploads/betheme/css/post-75.css?ver=1717440249
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\betheme\css\post-75.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/uploads/betheme/css/post-75.css?ver=1717440266
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\betheme\css\post-75-1.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/uploads/elementor/css/post-13.css?ver=1700486593
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\elementor\css\post-13.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/uploads/elementor/css/post-15.css?ver=1699604973
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\elementor\css\post-15.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/uploads/elementor/css/post-17.css?ver=1700486087
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\elementor\css\post-17.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/uploads/elementor/css/post-19.css?ver=1708009658
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\elementor\css\post-19.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/uploads/elementor/css/post-75.css?ver=1700484593
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\elementor\css\post-75.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-content/uploads/elementor/css/post-81.css?ver=1699604379
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-content\uploads\elementor\css\post-81.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-includes/css/dist/block-library/style.min.css?ver=6.5.3
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://blazelerd.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-includes\js\jquery\ui\tabs.min.js
+Content Type: application/javascript
+
+Uri: https://blazelerd.com/wp-json/
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://blazelerd.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblazelerd.com%2F
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://blazelerd.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblazelerd.com%2F&format=xml
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://blazelerd.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblazelerd.com%2Fcareers
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://blazelerd.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblazelerd.com%2Fcareers&format=xml
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://blazelerd.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblazelerd.com%2Fcontact-us
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://blazelerd.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblazelerd.com%2Fcontact-us&format=xml
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://blazelerd.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblazelerd.com%2Fotkaz-ot-otvetstvennosti
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://blazelerd.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblazelerd.com%2Fotkaz-ot-otvetstvennosti&format=xml
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://blazelerd.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblazelerd.com%2Fpolzovatelskoe-soglashenie
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://blazelerd.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblazelerd.com%2Fpolzovatelskoe-soglashenie&format=xml
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://blazelerd.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblazelerd.com%2Fportfolio
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://blazelerd.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblazelerd.com%2Fportfolio&format=xml
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://blazelerd.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblazelerd.com%2Fprivacy-policy-2
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://blazelerd.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblazelerd.com%2Fprivacy-policy-2&format=xml
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://blazelerd.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblazelerd.com%2Fservices
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://blazelerd.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblazelerd.com%2Fservices&format=xml
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://blazelerd.com/wp-json/wp/v2/pages/121
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\wp\v2\pages\121
+Content Type: application/json
+
+Uri: https://blazelerd.com/wp-json/wp/v2/pages/123
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\wp\v2\pages\123
+Content Type: application/json
+
+Uri: https://blazelerd.com/wp-json/wp/v2/pages/125
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\wp\v2\pages\125
+Content Type: application/json
+
+Uri: https://blazelerd.com/wp-json/wp/v2/pages/13
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\wp\v2\pages\13
+Content Type: application/json
+
+Uri: https://blazelerd.com/wp-json/wp/v2/pages/15
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\wp\v2\pages\15
+Content Type: application/json
+
+Uri: https://blazelerd.com/wp-json/wp/v2/pages/17
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\wp\v2\pages\17
+Content Type: application/json
+
+Uri: https://blazelerd.com/wp-json/wp/v2/pages/19
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\wp\v2\pages\19
+Content Type: application/json
+
+Uri: https://blazelerd.com/wp-json/wp/v2/pages/75
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\wp-json\wp\v2\pages\75
+Content Type: application/json
+
+Uri: https://blazelerd.com/xmlrpc.php?rsd
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:1%2C300%2C400%2C400italic%2C500%2C700%2C700italic&display=swap&ver=6.5.3
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|DM+Sans:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&subset=cyrillic&ver=6.5.3
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&subset=cyrillic&ver=6.5.3
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400|Open+Sans:400%2C600%2C500&display=swap
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DV30TGI.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DV30TGI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDF30TGI.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDF30TGI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDV30TGI.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDV30TGI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCl30TGI.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCl30TGI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCl30TGI.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCl30TGI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDV30TGI.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDV30TGI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCl30TGI.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCl30TGI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCl30TGI.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCl30TGI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDV30TGI.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDV30TGI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5tRSW3z.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5tRSW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJtRSW3z.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJtRSW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIptRSW3z.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIptRSW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxRSW3z.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxRSW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRSW3z.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRSW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1RSW3z.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1RSW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxRSW3z.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxRSW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZtRSW3z.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZtRSW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxRSW3z.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxRSW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzQdKg.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzQdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc-CsE.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc-CsE.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc-CsE.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic-CsE.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxMIzc.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxMIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xMIzc.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xMIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc9.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fABc9.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc9.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfABc9.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxP.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\roboto\v30\KFOmCnqEu92Fr1Mu5mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSma2Rm.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Oma2Rm.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Oma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOma2Rm.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISma2Rm.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISma2Rm.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWma2Rm.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOma2Rm.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOma2Rm.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSma2Rm.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Users\User\Documents\1\qwe\blazelerd.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
